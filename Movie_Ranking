@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Ranking</title>
+    <style>
+        h3{
+            color:red;
+        }
+        h1,h2{
+            color:brown;
+        }
+        p{
+            color:blue
+        }
+        body{
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <hr>
+    <h1>The Best Movies According to Adarsh</h1>
+    <h2>My top 3 movies of all-time.</h2>
+    <hr>
+
+    <h3><u>Spirited Away</u></h3>
+    <p>This is my favourite anime.I love the beautiful images.</p>
+
+    <h3><u>Ex Machina</u></h3>
+    <p>Really cool scientific movie</p>
+
+    <h3><u>Drive</u></h3>
+    <p>Super beautiful film.Really artistic</p>
+    <hr>
+</body>
+</html>
